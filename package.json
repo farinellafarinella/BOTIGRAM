@@ -1,0 +1,1 @@
+{"name":"instagram-auto-bot","version":"0.1.0","private":true,"type":"module","scripts":{"run":"node src/run.js","check":"node --check src/run.js"},"dependencies":{"@supabase/supabase-js":"^2.49.0","sharp":"^0.34.0"},"engines":{"node":">=22"}}
